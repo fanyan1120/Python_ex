@@ -1,4 +1,4 @@
-#coding=utf-8
+﻿#coding=utf-8
 
 print "print ' in \""
 print 'print \' in \' \nprint \\, print enter: \n print tab between aaa: aaa\taaa'

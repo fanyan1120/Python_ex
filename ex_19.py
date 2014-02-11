@@ -1,4 +1,4 @@
-#coding=utf-8
+﻿#coding=utf-8
 
 def cheese_and_crackers(cheese_count, boxes_of_crackers):
     print "u have %d cheeses!" % cheese_count

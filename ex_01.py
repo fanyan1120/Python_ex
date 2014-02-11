@@ -1,9 +1,9 @@
-#coding=utf-8
+Ôªø#coding=utf-8
 
 # print string
 print "Start to learn Python."
 print '"Python"'
-print "NANA !! £°£°"
+print "NANA !! ÔºÅÔºÅ"
 print "I'm learning Python."
 print "output \". "
 print 'output \'. '

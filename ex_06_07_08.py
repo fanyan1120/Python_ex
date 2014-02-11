@@ -1,4 +1,4 @@
-#coding=utf-8
+﻿#coding=utf-8
 
 x = "%d green bottles hanging on the wall." %10
 apple = "apples"

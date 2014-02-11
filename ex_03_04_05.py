@@ -1,4 +1,4 @@
-#coding=utf-8
+﻿#coding=utf-8
 
 print "2 x (3 + 6) / 5 = ", 2 * (3 + 6) / 5
 print "5%3 = ", 5%3

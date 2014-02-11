@@ -1,4 +1,4 @@
-#coding=utf-8
+﻿#coding=utf-8
 
 array_num = ['one', 'two', 'three', 'four', 'five', 'six']
 

@@ -1,4 +1,4 @@
-#coding=utf-8
+﻿#coding=utf-8
 
 # ====== ex 09 =======
 fruit = "apple pear banana orange"

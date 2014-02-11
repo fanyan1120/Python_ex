@@ -1,4 +1,4 @@
-#coding=utf-8
+﻿#coding=utf-8
 
 print "How old are you?",
 age = raw_input()
