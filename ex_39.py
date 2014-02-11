@@ -1,4 +1,4 @@
-#coding=utf-8
+﻿#coding=utf-8
 
 things = ['a', 'b', 'c', 'd']
 print things[1]
